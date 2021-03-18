@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Mi se jade jagoda
+=======
+>>>>>>> cabeddb (Conflict)
